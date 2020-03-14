@@ -7,4 +7,6 @@ Datasource https://api.semanticscholar.org/corpus/
 
 ## Graphs
 
-![Farmers Market Finder Demo](images_gifs/LabelPropogation_Graph.gif)
+![Label Propogation Graph](images_gifs/LabelPropogation_Graph.gif)
+
+![Strongly Connected Components Graph](images_gifs/SC_components_gif.gif)
