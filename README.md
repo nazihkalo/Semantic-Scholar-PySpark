@@ -20,3 +20,5 @@ We then applied various clustering/community building algorithms on these graphs
 ## Title2Vec
 
 We trained 50-d word embeddings on the corpus of articles and then used this embeddings as features in our models. We also created a basic semantic search function which takes an input string and returns the most similar paper title to the query within the Title2Vec embedding space. Below is a demonstration of this function:
+
+![title2vec](images_gifs/short_title2vec.gif)
