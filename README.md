@@ -5,3 +5,6 @@ Utilizing Spark and other Big Data technologies to analyze Semantic Scholar's co
 ## Dataset
 Datasource https://api.semanticscholar.org/corpus/
 
+## Graphs
+
+![Farmers Market Finder Demo](images_gifs/LabelPropogation_Graph.gif)
