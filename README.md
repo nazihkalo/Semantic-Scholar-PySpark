@@ -15,4 +15,4 @@ We then applied various clustering/community building algorithms on these graphs
 
 ![Strongly Connected Components Graph](images_gifs/SC_components_gif.gif)
 
-![results](images_gifs/networkx_visuals)
+![results](images_gifs/networkx_visuals.png)
